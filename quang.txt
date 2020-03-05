@@ -1,0 +1,8 @@
+HashMap: Lưu trữ ngẫu nhiên, không thể sắp xếp.
+LinkedHashMap: Lưu trữ theo thứ tự chèn, có thể sắp xếp.
+TreeMap: Tự động sắp xếp tăng dần theo key, có thể sắp xếp.
+Set
+
+HashSet: Lưu trữ ngẫu nhiên, không thể sắp xếp.
+LinkedHashSet: Lưu trữ theo thứ tự chèn, có thể sắp xếp.
+TreeSet: Tự động sắp xếp các phần tử tăng dần (hoặc giảm dần), có thể sắp xếp.
